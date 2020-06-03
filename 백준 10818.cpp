@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 #define MAXSIZE 1000000
 using namespace std;
 
